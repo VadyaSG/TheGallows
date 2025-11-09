@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\VadyaS\source\repos\The_Gallows\The_Gallows\Source.cpp(85,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\VadyaS\source\repos\The_Gallows\The_Gallows\Source.cpp(90,16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  The_Gallows.vcxproj -> C:\Users\VadyaS\source\repos\The_Gallows\x64\Debug\The_Gallows.exe
